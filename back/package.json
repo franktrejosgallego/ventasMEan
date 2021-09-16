@@ -1,0 +1,23 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "CRUD mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franktrejosgallego/ventasMEan.git"
+  },
+  "keywords": [
+    "STACK",
+    "MEAN"
+  ],
+  "author": "Frank Trejos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franktrejosgallego/ventasMEan/issues"
+  },
+  "homepage": "https://github.com/franktrejosgallego/ventasMEan#readme"
+}
